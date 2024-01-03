@@ -160,6 +160,7 @@
 
 a.site-logo {
   color: var(--topNavInk);
+  height: 28px; // added by PXE, fixes logo not being centered
 
   &:hover {
     color: var(--topNavInk);
